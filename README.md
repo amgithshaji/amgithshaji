@@ -1,9 +1,6 @@
 ## Hi, I'm amgith
 A ME(A)RN STACK DEVELOPER
-🔭 Currently building projects using MongoDB, Express, React, Node.js
-🌱 Learning React, API integration, Redux Toolkit, and UI/UX improvements
-🎯 Goal: Become a Full-Stack Developer
-📫 Reach me at:amgithshaji410@gmail.com
+
 
 
 
